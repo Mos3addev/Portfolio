@@ -290,7 +290,6 @@ html::-webkit-scrollbar-track {
 }
 .white-theme .fact-item {
   background: var(--background-color-1);
-  box-shadow: var(--shadow-2);
 }
 
 .fact-item .icon {
