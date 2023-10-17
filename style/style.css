@@ -615,7 +615,7 @@ footer {
 /* End Footer */
 
 /* Media Query */
-@media (max-width: 950px) {
+@media (max-width: 992px) {
   .about-content {
     flex-direction: column;
     gap: 30px;
@@ -634,7 +634,7 @@ footer {
   }
 }
 
-@media (max-width: 750px) {
+@media (max-width: 776px) {
   section {
     padding: 20px 10px;
   }
@@ -666,7 +666,7 @@ footer {
   }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 500px) {
   section {
     padding-bottom: 100px;
   }
