@@ -29,6 +29,7 @@ body {
   font-family: "Poppins", sans-serif;
   background: var(--white-color);
   color: var(--main-color);
+  overflow-x: hidden;
 }
 .white-theme{
   background: var(--main-color);
